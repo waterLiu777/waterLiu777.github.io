@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiguang Chen (陈麒光)"
   avatar           : "profile.png"
-  bio              : "哈尔滨工业大学本科在读"
-  location         : "哈尔滨"
-  employer         : "百度"
+  bio              : "Bachelor Undergraduate @HIT| Research Intern @ Baidu"
+  location         : "Taizhou, Zhejiang, China"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8j8AfF0AAAAJ"
-  email            :
+  email            : "charleschen2333@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LightChen233"
+  github           : "LightChen233"
   google_plus      :
   keybase          :
   instagram        :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
