@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lightchen233.github.io)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lightchen233.github.io&right_color=green)
 
 Welcome to Qiguang Chen  (陈麒光) 's homepage!
 
@@ -21,10 +21,10 @@ Besides study, I'm honored as the president of HIT Software Competition Club, an
 # News
 
 - \[2022.05\] I join Baidu Research, Baidu Inc.
-- \[2022.04\] Our work on multi-lingual SLU is accepted by **ACL 2022**. Thanks for co-authors from HIT, MSRA and NUS!
-- \[2021.09\] Our work on inconsistencies in Task-oriented Dialogue System is accepted by **EMNLP 2021**. Thanks for co-authors from HIT!
+- \[2022.04\] Our work on multi-lingual SLU is accepted by ACL 2022. Thanks for co-authors from HIT, MSRA and NUS!
+- \[2021.09\] Our work on inconsistencies in Task-oriented Dialogue System is accepted by EMNLP 2021. Thanks for co-authors from HIT!
 
 # Publications
 
-- Libo Qin, **Qiguang Chen**, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan. GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding.  Accepted by ACL2022, main conference.
-- Libo Qin, Tianbao Xie, Shijue Huang, **Qiguang Chen**, Xiao Xu, Wanxiang Che. Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System. Accepted by EMNLP2021.
+- Libo Qin, Qiguang Chen, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan. GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding.  Accepted by ACL2022, main conference.
+- Libo Qin, Tianbao Xie, Shijue Huang, Qiguang Chen, Xiao Xu, Wanxiang Che. Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System. Accepted by EMNLP2021.
