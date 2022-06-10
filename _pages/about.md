@@ -14,7 +14,7 @@ Welcome to Qiguang Chen  (陈麒光) 's homepage!
 
 I’m currently a third-year undergraduate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Software Engineering, at [Computing Faculty](http://cs.hit.edu.cn/). My research interests includes Task-oriented Dialogue System, Contrastive Learning and Natural Language Processing.
 
-Currently, I am a research intern at [Baidu Research](http://research.baidu.com/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). At the same time, I am also a research assistant at [SCIR](http://ir.hit.edu.cn/) supervised by [Dr. Libo Qin](http://ir.hit.edu.cn/~lbqin/) and [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/).
+Currently, I am a research intern at [Baidu Research](http://research.baidu.com/) and collaborate with Baidu Talent Intelligence Center, supervised by [Lijie Wang](https://scholar.google.com/citations?user=bMsGAi0AAAAJ). At the same time, I am also a research assistant at [SCIR](http://ir.hit.edu.cn/) supervised by [Dr. Libo Qin](http://ir.hit.edu.cn/~lbqin/) and [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/).
 
 Besides study, I'm honored as the president of HIT Software Competition Club, and Secretary of the MLNLP Secretariat (only 5 undergraduates are invited).
 
