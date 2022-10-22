@@ -17,10 +17,12 @@ redirect_from:
       color: #000;
       text-decoration: none;
       padding: 5px ;
+      text-decoration-line: none;
       border: #000 1px solid;
     }
     .navA:hover{
       color: #fff;
+      text-decoration-line: none;
       background-color: #000;
     }
     td {
@@ -28,6 +30,7 @@ redirect_from:
     	border-bottom: none;
     }
   </style>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lightchen233.github.io&right_color=green)
 
@@ -37,7 +40,7 @@ Currently, I am a research intern at [Baidu NLP](https://nlp.baidu.com/homepage/
 
 Other than my work, I'm honored as the president of HIT Software Competition Club, and Deputy Secretary-General for MLNLP.
 
-<a href="#news" class="navA">Research</a> Publications
+<a href="#news" class="navA">News</a> <a href="#publications" class="navA">Publications</a> <a href="#honors&awards" class="navA">Honors&Awards</a>
 
 # News
 
@@ -107,10 +110,17 @@ Other than my work, I'm honored as the president of HIT Software Competition Clu
     </tbody>
 </table>
 
-# Honors and Awards
+# Honors&Awards
 
 - **Bachelor of Engineering (B.E.)**
 	- CCF Excellent College Students  Price (Only 1% students in HIT CS were invited), 2022
 	- National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling, China, 2021
 	- Provincial Gold Award in "Challenge" Cup, 2022
 
+# Patent Applications
+
+- 预训练对偶注意力神经网络语义推断对话检索方法及系统、检索设备、存储介质。
+
+	梁晨; **陈麒光**; 耿健; 唐亚锋; 辛宇鑫
+
+	ZL 2021 1 0795247.7, 2022.09.09.
