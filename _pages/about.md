@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Qiguang Chen (陈麒光)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,15 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    .navA{
+      display: inline-block;
+      margin-right: 13px;
+      font-size: 16px;
+      font-weight: 700;
+      color: #000;
+      text-decoration: none;
+      padding: 5px ;
+      border: #000 1px solid;
+    }
+    .navA:hover{
+      color: #fff;
+      background-color: #000;
+    }
+  </style>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lightchen233.github.io&right_color=green)
 
-Welcome to Qiguang Chen  (陈麒光) 's homepage!
-
-I’m currently a fourth-year undergraduate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Software Engineering, at [Computing Faculty](http://cs.hit.edu.cn/). My research interests includes Task-oriented Dialogue System, Contrastive Learning and Natural Language Processing.
+Hello! I'm a fourth-year undergraduate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Software Engineering, at [Computing Faculty](http://cs.hit.edu.cn/). My research interests includes Task-oriented Dialogue System, Contrastive Learning and Natural Language Processing.
 
 Currently, I am a research intern at [Baidu NLP](https://nlp.baidu.com/homepage/index) , supervised by [Lijie Wang](https://scholar.google.com/citations?user=bMsGAi0AAAAJ) and [Dr. Jing Liu](https://scholar.google.com/citations?hl=zh-CN&user=_NtB74oAAAAJ). At the same time, I am also an associate master at [SCIR](http://ir.hit.edu.cn/) supervised by [Dr. Libo Qin](http://ir.hit.edu.cn/~lbqin/) and [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/).
 
-Besides study, I'm honored as the president of HIT Software Competition Club, and Deputy Secretary-General for MLNLP.
+Other than my work, I'm honored as the president of HIT Software Competition Club, and Deputy Secretary-General for MLNLP.
+
+<a href="#News" class="navA">Research</a>
 
 # News
 
