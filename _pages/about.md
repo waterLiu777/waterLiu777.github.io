@@ -23,6 +23,10 @@ redirect_from:
       color: #fff;
       background-color: #000;
     }
+    td {
+        border-style: none;
+    	border-bottom: none;
+    }
   </style>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lightchen233.github.io&right_color=green)
