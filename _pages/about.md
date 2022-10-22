@@ -33,7 +33,7 @@ Currently, I am a research intern at [Baidu NLP](https://nlp.baidu.com/homepage/
 
 Other than my work, I'm honored as the president of HIT Software Competition Club, and Deputy Secretary-General for MLNLP.
 
-<a href="#News" class="navA">Research</a>
+<a href="#news" class="navA">Research</a> Publications
 
 # News
 
@@ -47,9 +47,61 @@ Other than my work, I'm honored as the president of HIT Software Competition Clu
 
 # Publications
 
-- Libo Qin, Qiguang Chen, Tianbao Xie, Qian Liu, Shijue Huang, Wanxiang Che, Zhou Yu. [CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue](https://aclanthology.org/2022.coling-1.37.pdf).  Accepted by COLING2022.
-- Libo Qin, Qiguang Chen, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan. GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding.  Accepted by ACL2022, main conference.
-- Libo Qin, Tianbao Xie, Shijue Huang, Qiguang Chen, Xiao Xu, Wanxiang Che. Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System. Accepted by EMNLP2021.
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody>
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <img src="images/cgim.jpg" alt="CGIM" width="160" height="140" style="border-style: none">
+        </td>
+        <td width="75%" valign="middle">
+          <!-- <a href="http://www.personal.psu.edu/dux19/" id="3DSP"> -->
+          <papertitle><b>CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue</b></papertitle>
+          <br>
+          Libo Qin, <b>Qiguang Chen</b>, Tianbao Xie, Qian Liu, Shijue Huang, Wanxiang Che, Zhou Yu.
+          <br>
+          <em><b>[COLING 2022]</b></em> 
+            <!-- <i>The 36th Conference on Neural Information Processing Systems</i> -->
+          <br>
+          <a href="https://aclanthology.org/2022.coling-1.37.pdf">PDF</a> / <a href="#">Code</a> / <a href="#">Supp</a> / <a href="#">Slides</a>
+          <p> This work aims to solve CI-ToD task by introducing an explicit interaction paradigm, Cycle Guided Interactive learning Model (CGIM), which achieves to make information exchange explicitly from all the three tasks. </p>
+        </td>
+      </tr>
+    <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <img src="images/glclef.jpg" alt="GLCLeF" width="160" height="140" style="border-style: none">
+        </td>
+        <td width="75%" valign="middle">
+          <!-- <a href="http://www.personal.psu.edu/dux19/" id="3DSP"> -->
+          <papertitle><b>GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding. </b></papertitle>
+          <br>
+          Libo Qin, <b>Qiguang Chen</b>, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan.
+          <br>
+          <em><b>[ACL 2022]</b></em> 
+            <!-- <i>The 36th Conference on Neural Information Processing Systems</i> -->
+          <br>
+          <a href="https://aclanthology.org/2022.acl-long.191.pdf">PDF</a> / <a href="#">Code</a> / <a href="#">Supp</a> / <a href="#">Slides</a>
+          <p>We present Global-Local Contrastive Learning Framework (GL-CLeF) to address this shortcoming. Specifically, we employ contrastive learning, leveraging bilingual dictionaries to construct multilingual views of the same utterance, then encourage their representations to be more similar than negative example pairs, which achieves to explicitly align representations of similar sentences across languages. </p>
+        </td>
+      </tr>
+    <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <img src="images/citod.jpg" alt="CIToD" width="160" height="140" style="border-style: none">
+        </td>
+        <td width="75%" valign="middle">
+          <!-- <a href="http://www.personal.psu.edu/dux19/" id="3DSP"> -->
+          <papertitle><b>Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.</b></papertitle>
+          <br>
+          Libo Qin, Tianbao Xie, Shijue Huang, <b>Qiguang Chen</b>, Xiao Xu, Wanxiang Che.
+          <br>
+          <em><b>[EMNLP2021]</b></em> 
+            <!-- <i>The 36th Conference on Neural Information Processing Systems</i> -->
+          <br>
+          <a href="https://aclanthology.org/2021.emnlp-main.182.pdf">PDF</a> / <a href="#">Code</a> / <a href="#">Supp</a> / <a href="#">Slides</a>
+          <p>We introduce CI-ToD, a novel dataset for Consistency Identification in Task-oriented Dialog system. In addition, we not only annotate the single label to enable the model to judge whether the system response is contradictory, but also provide more fine-grained labels (i.e., Dialogue History Inconsistency, User Query Inconsistency and Knowledge Base Inconsistency) to encourage model to know what inconsistent sources lead to it.</p>
+        </td>
+      </tr>
+    </tbody>
+</table>
 
 # Honors and Awards
 
