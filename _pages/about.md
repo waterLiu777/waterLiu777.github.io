@@ -40,7 +40,7 @@ Currently, I am a research intern at [Baidu NLP](https://nlp.baidu.com/homepage/
 
 Other than my work, I'm honored as the president of HIT Software Competition Club, and Deputy Secretary-General for MLNLP.
 
-<a href="#news" class="navA">News</a> <a href="#publications" class="navA">Publications</a> <a href="#honors&awards" class="navA">Honors&Awards</a>
+<a href="#news" class="navA">News</a> <a href="#publications" class="navA">Publications</a> <a href="#honors&awards" class="navA">Honors&Awards</a> <a href="#patent applications" class="navA">Patent Applications</a> 
 
 # News
 
